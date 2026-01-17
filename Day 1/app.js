@@ -108,9 +108,9 @@ console.log(o + "20") // + is used for both Addition and Append operation in JS
 
 console.log(o - "Hello") // NaN : Not a Number
 
-// User Input in JavaScript
-let num1 = prompt("Enter first number:-") // prompt is used to take input from user in browser
-console.log(num1, typeof(num1))
+// // User Input in JavaScript
+// let num1 = prompt("Enter first number:-") // prompt is used to take input from user in browser
+// console.log(num1, typeof(num1))
 
-let num2 = parseInt(prompt("Enter second number:-")) // parseInt is used to convert string to integer
-console.log(num2, typeof(num2))
+// let num2 = Number(prompt("Enter second number:-")) // parseInt is used to convert string to integer
+// console.log(num2, typeof(num2))
